@@ -1,11 +1,22 @@
-# Concept Roadmap
+# Welcome to Wednesware
 
-Welcome to **Wednesware**. This profile page is a small snapshot of what we’re building:
+**Wednesware** is an organization focused on building innovative tools, frameworks, and infrastructure for the modern development ecosystem.
 
-- **Oxygen** — a web/app framework focused on building modern experiences.
-- **Sodium** — a plugin marketplace for discovering and distributing extensions.
-- **Helium** — mod loader capabilities designed to support flexible integrations.
+## About Us
 
-We’re exploring tools and infrastructure that make the ecosystem easier to build on, easier to extend, and easier to grow.
+We create software and solutions that empower developers to:
+- Build modern, scalable applications
+- Discover and integrate extensions seamlessly
+- Extend functionality through flexible plugin architectures
 
-Stay tuned for more updates as the roadmap evolves.
+## Our Focus Areas
+
+- **Web & App Development** — Modern frameworks and tools for building next-generation applications
+- **Ecosystem Extensions** — Marketplaces and distribution systems for third-party integrations
+- **Modular Architecture** — Flexible infrastructure designed for easy extensibility and growth
+
+## Get Involved
+
+Explore our repositories to learn more about our projects, contribute, or get started with our tools.
+
+For questions or collaboration inquiries, feel free to reach out or open an issue on any of our projects.
