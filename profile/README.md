@@ -1,4 +1,4 @@
-[![Wednesware](wednesware.png)](https://wednesware.org)
+[![Wednesware](https://github.com/Wednesware/Nitrogen/raw/main/wednesware.png)](https://wednesware.org)
 
 **Wednesware** is an organization focused on building primarily Python-based innovative tools, frameworks, and infrastructure for the modern development ecosystem.
 
